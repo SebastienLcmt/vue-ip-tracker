@@ -1,6 +1,6 @@
 # vue-ip-tracker
 
-## [Live Demo](https://vue-ip-tracker-live.netlify.app/)
+[Live Demo](https://vue-ip-tracker-live.netlify.app/)
 
 
 ## Project set up
