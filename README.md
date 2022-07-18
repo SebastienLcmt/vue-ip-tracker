@@ -1,5 +1,8 @@
 # vue-ip-tracker
 
+[Live Demo](https://vue-ip-tracker-live.netlify.app/)
+
+
 ## Project set up
 - ```git clone https://github.com/SebastienLcmt/vue-ip-tracker.git```
 - ```npm install```
